@@ -1,4 +1,4 @@
-#  Dta Warehouse and Analytics Project
+#  Data Warehouse and Analytics Project
 Welcome to the **Data Warehouse and Analytics Porject** repository! thanks to this video that I watched to learn and do this project as an exercise to keep learning :https://www.youtube.com/watch?v=SSKVgrwhzus&t=65589s&ab_channel=DatawithBaraa.
 
 This project demostrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
