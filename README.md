@@ -33,4 +33,4 @@ This proejct is licensed under the [MIT License]. You are free to use, modify, a
 
 ## About Me
 
-Hi, my name is Paula, and I am a Mechatronic Engineer. I like to lear. I like data and IT.    
+Hi, my name is Paula, and I am a Mechatronic Engineer. I like to learn. I like data and IT.    
