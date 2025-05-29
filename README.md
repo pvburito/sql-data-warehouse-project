@@ -4,7 +4,7 @@ Welcome to the **Data Warehouse and Analytics Porject** repository! thanks to th
 This project demostrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
 
 ---
- ## Project Requirements
+ ## Project Overview
  ### Bulding the Data Warehouse ( Data Engineering)
 
  ### Objective
